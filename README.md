@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinmak" alt="shibinmak" /> </p>
 
-- 🌱 I’m currently learning **Azure,C# **
+- 🌱 I’m currently learning **Azure,C#**
 
 - 💬 Ask me about **Python, Data science , Data Engineering**
 
