@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Shibin Mak</h1>
-<h3 align="center">Senior Artificial Intelligence Engineer | Researcher | Azure certified Developer</h3>
+<h3 align="center">Senior Artificial Intelligence Engineer | Researcher | Azure certified Developer | Azure certified Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinmak" alt="shibinmak" /> </p>
 
